@@ -1,0 +1,17 @@
+.backgroundMain{
+    background-color: #1f1f28;
+}
+.mainNavigation{
+    background-color: #16161d;
+}
+
+.mainTextColorH{
+    color: #e6c384;
+}
+.mainBorder{
+    border-bottom: 2px solid #e6c384;
+}
+.mainSelect{
+    background-color: #54546d;
+    color: #e6c384;
+}
