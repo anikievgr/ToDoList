@@ -1,0 +1,7 @@
+.errors p{
+    color: #e82424;
+}
+.errorsField{
+    border: 2px solid #e82424 !important;
+
+}

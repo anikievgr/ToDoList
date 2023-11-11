@@ -1,0 +1,11 @@
+.crateStage{
+    border-radius: 5px;
+    width: 145px;
+    height: 30px;
+    padding-right: 0;
+    display: flex;
+    background-color: #e6c384;
+    align-items: center;
+    justify-content: center;
+    color: #2a2a37;
+}

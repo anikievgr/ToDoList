@@ -1,0 +1,23 @@
+.footerFrom {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.footerFrom button{
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
+    padding-right: 0;
+    display: flex;
+    background-color: #e6c384;
+    align-items: center;
+    justify-content: center;
+    color: #2a2a37;
+}
+.footerFrom a{
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: #223249;
+    color: #938aa9;
+}

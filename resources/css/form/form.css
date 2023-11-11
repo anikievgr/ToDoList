@@ -1,0 +1,17 @@
+.formContainer{
+    height: 10em;
+    position: relative
+}
+.mainFrom{
+    padding: 10px;
+    width: 500px;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+
+    background-color: #16161d;
+    border-radius: 10px;
+}

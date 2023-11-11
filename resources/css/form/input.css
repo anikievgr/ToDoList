@@ -1,0 +1,17 @@
+.mainInput{
+    width: 100%;
+}
+.mainInput label{
+    color:  #7e9cd8;
+}
+.mainInput input{
+    display: block;
+    background-color: #ffffff00;
+    border-radius: 5px;
+    width: 100%;
+    color: #ffa066;
+}
+.mainInput input:focus{
+    border: 2px solid #9cabca;
+    box-shadow: none;
+}
